@@ -1,0 +1,6 @@
+# WorkHive — Directories to ignore
+node_modules
+.next
+.env
+.env.local
+*.pem

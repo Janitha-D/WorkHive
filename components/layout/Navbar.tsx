@@ -18,6 +18,7 @@ import { cn } from '@/lib/utils';
 const navLinks = [
   { label: 'Categories', href: '/#categories' },
   { label: 'My Dashboard', href: '/dashboard' },
+  { label: 'Creator Hub', href: '/creator-hub' },
   { label: 'Support', href: '/support' },
 ];
 

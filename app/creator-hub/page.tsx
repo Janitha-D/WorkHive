@@ -46,7 +46,7 @@ const platformGuides = [
       {
         title: 'Reels Performance Bonuses',
         description:
-          'Facebook's 2026 Reels incentive program pays creators monthly bonuses based on Reel views and engagement milestones.',
+          "Facebook's 2026 Reels incentive program pays creators monthly bonuses based on Reel views and engagement milestones.",
         criteria: ['5,000+ followers', 'Consistent posting (3+ Reels/week)', 'Located in eligible country'],
         earning: '$100 – $30,000/mo',
       },

@@ -76,7 +76,7 @@ const platformGuides = [
       {
         title: 'Shorts Feed Revenue Sharing',
         description:
-          'YouTube's 2026 model pools ad revenue from Shorts and distributes it to creators based on their share of total views.',
+          "YouTube's 2026 model pools ad revenue from Shorts and distributes it to creators based on their share of total views.",
         criteria: ['500+ subscribers (entry tier)', '3,000+ Shorts views / 90 days', 'YPP membership'],
         earning: '$0.03 – $0.06 / 1k views',
       },
@@ -113,7 +113,7 @@ const platformGuides = [
       {
         title: 'Creator Rewards Program',
         description:
-          'TikTok's 2026 premium monetization program. Pays significantly more than the old Creator Fund — based on RPM tied to qualified plays.',
+          "TikTok's 2026 premium monetization program. Pays significantly more than the old Creator Fund — based on RPM tied to qualified plays.",
         criteria: ['10,000+ followers', '100,000 views / 30 days', 'Videos 1+ min long', '18+ years old'],
         earning: '$0.40 – $1.00 / 1k views',
       },
